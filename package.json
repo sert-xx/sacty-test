@@ -1,0 +1,11 @@
+{
+  "name": "sacty-test",
+  "version": "0.1.0",
+  "private": true,
+  "description": "sacty の動作確認用の小さなライブラリ",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test"
+  }
+}
